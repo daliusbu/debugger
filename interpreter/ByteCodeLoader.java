@@ -11,6 +11,7 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 public class ByteCodeLoader {
+    //uigew ue
     
     protected String codeFile;
     protected BufferedReader in;
